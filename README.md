@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Senadhi Thimanya
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXR3ZWhseW5icjMwZWp6b3h0cjdheWd1ZHN1ejVsNzRpN2o4NHhmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aEcwIBbDy3lTqxf65u/giphy.gif)
+
+
 ## 🚀 About Me
 I'm an AI and Data Science undergraduate wanting to grow my knowledge
 
