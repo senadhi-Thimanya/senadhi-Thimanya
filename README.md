@@ -14,30 +14,39 @@
      alt="Alt Text" style="width: 250px; height: auto;" />
 </div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=senadhi-Thimanya&label=Profile%20views&color=0e75b6&style=flat" alt="senadhi-Thimanya"/> </p>
+
+<h3>🌱 I’m currently learning</h3>
+
+[![Learning](https://skillicons.dev/icons?i=azure,docker,react,ts,nodejs)](https://skillicons.dev)
+
+<h3>Programming Languages</h3>
+
+[![skills](https://skillicons.dev/icons?i=css,html,java,js,py,r,)](https://skillicons.dev)
+
+<h3>Tools and DB</h3>
+
+[![skills](https://skillicons.dev/icons?i=figma,github,idea,pycharm,vscode,mysql)](https://skillicons.dev)
+
+<br><h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=senadhi-thimanya&theme=gotham&show_icons=true" alt="senadhi-thimanya"/>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=senadhi-thimanya&show_icons=true&theme=gotham"/>
+</p>
+
+<br><h3>📫 Connect With Me</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/senadhi-chandrasekara-021993332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senadhi-Thimanya" height="30" width="40" /></a>
+<a href="senadhithimanya@gmail.com"><img target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://discord.gg/Raemih_48514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zuziee_" height="30" width="40" /></a>
+</p>
 
 
-
-## 🚀 About Me
-I'm an AI and Data Science undergraduate wanting to grow my knowledge
-
-## 🔨 Technologies I Use
-- 🐍 Python
-- ☕ Java
-- 🌐 HTML, CSS, JavaScript
-
-## 📈 GitHub Stats
-![Senadhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senadhi-thimanya&show_icons=true&theme=radical)
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/senadhi-chandrasekara-021993332/))
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:senadhithimanya@example.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senadhi-Thimanya&label=Profile%20views&color=0e75b6&style=flat" alt="senadhi-Thimanya"/> </p>
-
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<br><h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=senadhi-Thimanya&theme=darkhub" alt="senadhi-Thimanya"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=senadhi-Thimanya&theme=gitdimmed&no-bg=true" alt="senadhi-Thimanya"/>
     </a>
 </p>
