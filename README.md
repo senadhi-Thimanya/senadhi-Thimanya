@@ -38,9 +38,8 @@
 <br><h3>📫 Connect With Me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/senadhi-chandrasekara-021993332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senadhi-Thimanya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senadhi-chandrasekara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senadhi-Thimanya" height="30" width="40" /></a>
 <a href="senadhithimanya@gmail.com"><img target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://discord.gg/Raemih_48514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zuziee_" height="30" width="40" /></a>
 </p>
 
 
